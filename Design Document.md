@@ -70,7 +70,7 @@ Leaning heavily into the visual design characteristics of Disco Elysium, the pro
 ### Music
 Mykolai go ham on this section, we have stuff to talk about. ;)
 ### Sound Effects
-Not assigned. Likely to be recording of real life sounds, rather then synthesized. Royalty free sound effects as needed.
+Not assigned. Likely to be recordings of real life sounds, rather then synthesized. Royalty free sound effects as needed.
 
 ## Game Experience
 ### UI
