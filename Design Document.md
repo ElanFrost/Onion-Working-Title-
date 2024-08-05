@@ -27,7 +27,7 @@ A short internet horror story. An origin story I personaly like for how the AI's
 
 
 ### Player Experience
-In a single screen dungeon for each of the 15 levels, the player will solve a short but perhaps complex puzzle requiring planning and management. The player must learn and use their knowledge of the interactions between the player cells and various environmental items to understand how to pass through each level.
+The player explores a dilapidated world, discovering it's history, background lore, the robotic uprising, talking with NPC's and slowly piecing together the wider lore of the world they find themselves in, all the while being prompted to think about their own existence. The gameplay hinges on it's writing and presentation, rather than on it's mechanics.
 
 ### Platform
 PC exclusive title. Geting the game to work on multiple OS's will be dificult, never mind implementing other platforms.
