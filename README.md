@@ -49,7 +49,6 @@ This game is marketed towards fairly mature audiences that don't necesarily want
 
 ### Gameplay overview
 The player controls a single player character, using his mouse of keyboard to traverse a 3d world. The game is played by interacting with objects, having conversations with other characters and solving environment based puzzles.
-The player controls a mass of player cells, each with individual status, but moves as a collective. Individual cells may die or be created which influences the total shape of the mass. By navigating through each level, the player must strategically manipulate the shape of the mass to be able to pass around or through obstacles to reach the goal. 
 
 ### Primary Mechanics
 * **To be filled out**
