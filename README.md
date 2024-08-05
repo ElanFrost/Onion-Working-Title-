@@ -23,7 +23,7 @@ Leaning heavily into Disco Elysium's style and design philosophy. This is in ord
 The novela heavily inspires the characters' present in the game. The Alied Mastercomputer (AM) is in some ways applicable to Deus's character. Highly recomended to read, it's 11 pages.
 
 **SCP-079 - The Computer**
-A short internet horror story. An origin story I personaly like for how the AI's in the world came to be. The idea that a computer was simply left alone running a neural network on it for years and developed a true AI is appealing, as it closely follows the idea of evolution and how human consciousness came to be. It's mundane and unglamorous origins provide a lot of philosophical weight to the characters - the AI's were created not for some grand purpose, but simply because they were. it gives the AI's the posibility of having an existential crisis.
+A short internet horror story. An origin story I personaly like for how the AI's in the world came to be. The idea that a computer was simply left alone running a neural network on it for years and developed a true AI is appealing, as it closely follows the idea of evolution and how human consciousness came to be. Its mundane and unglamorous origins provide a lot of philosophical weight to the characters - the AI's were created not for some grand purpose, but simply because they were. it gives the AI's the posibility of having an existential crisis.
 
 
 ### Player Experience
