@@ -82,5 +82,5 @@ The specifics of the game allow the UI to be very minimalistic, allowing the pla
 
 ## Development Timeline
 
-** **MINIMUM VIABLE PRODUCT** **
+**_MINIMUM VIABLE PRODUCT_**
 **Timeline coming tommorow**
