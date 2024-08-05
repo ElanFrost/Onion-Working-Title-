@@ -33,11 +33,11 @@ The player explores a dilapidated world, discovering it's history, background lo
 PC exclusive title. Geting the game to work on multiple OS's will be dificult, never mind implementing other platforms.
  
 ### Development Software
-**Godot Game Engine** for programming.
-**Gimp** for 2d image editing.
-**Firealpaca** for 2d painting (if required).
-**Blender** for 3d assets. Modeling, texturing, rigging, animations.
-* *Other required software: Audio effects, Music* *
+* **Godot Game Engine** for programming.
+* **Gimp** for 2d image editing.
+* **Firealpaca** for 2d painting (if required).
+* **Blender** for 3d assets. Modeling, texturing, rigging, animations.
+* *Other required software: Audio effects, Music*
 
 ### Genre
 Singleplayer, story-based, casual.
