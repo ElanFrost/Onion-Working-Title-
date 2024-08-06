@@ -51,10 +51,10 @@ PC exclusive title. Geting the game to work on multiple OS's will be dificult, n
 <summary>Software</summary>
  
 ### Development Software
-* **Godot Game Engine** for programming.
-* **Gimp** for 2d image editing.
-* **Firealpaca** for 2d painting (if required).
-* **Blender** for 3d assets. Modeling, texturing, rigging, animations.
+* [Godot Game Engine v.4.2.2 (current)](https://godotengine.org/) for programming. [Docs](https://docs.godotengine.org/en/stable/about/introduction.html#doc-about-intro)
+* [Gimp](https://www.gimp.org/) for 2d image editing.
+* [Firealpaca](https://firealpaca.com/) for 2d painting (if required).
+* [Blender](https://www.blender.org/) for 3d assets. Modeling, texturing, rigging, animations. [Docs](https://docs.blender.org/manual/en/latest/index.html)
 * *Other required software: Audio effects, Music*
 </details>
 
