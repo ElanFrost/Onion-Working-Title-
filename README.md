@@ -1,10 +1,10 @@
 # ONION (WORKING TITLE) DESIGN DOCUMENT
 
-## Introduction
-
-### Foreword
+## Foreword
 After a long time, I have finaly decided to learn how GitHub works. This is the first step of developing this repo. In the following days I will update and fill up this repository with a lot of the work I did under the hood while not particularly interacting with the rest of the team. For that, I apologise, I have a lot to learn in terms of leadership, but I hope this can be one of the steps to getting better at it.
 This is a document containing the design philosophy and idea behing Onion (Working Title) and what I aim to work towards. Feel free to fill up sections of the document with your own suggestions. I highly encourage you to watch a few introductory videos on how GitHub works.
+
+## Introduction
 
 <details>
 <summary>Game Summary</summary>
