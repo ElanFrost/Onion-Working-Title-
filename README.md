@@ -135,7 +135,25 @@ The specifics of the game allow the UI to be very minimalistic, allowing the pla
 ## Development Timeline
 
 **_MINIMUM VIABLE PRODUCT_**
-| # | Assignment | Type | Status | Finish By | Notes
+<details>
+<summary>Controls</summary>
+
+| Assignment Types |
+| --- |
+| Management |
+| Programming |
+| Art |
+| Audio |
+
+| Status Types |
+| --- |
+| TODO |
+| In Progress |
+| Done |
+
+</details>
+
+| # | Assignment | Type | Finish By | Status | Notes
 | --- | --- | --- | --- | --- | --- |
-| Game Design Document | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| 1 | Create Game Design Document | Management | Longform (Initial 2024.08.09) | In Progress |  |
+| 2 | Develop "Blender -> Godot" asset creation pipeline | Art | 2024.08.09 | In Progress |  |
