@@ -176,11 +176,11 @@ Development timeline for the **_MINIMUM VIABLE PRODUCT_** (Edit as needs arise.)
 | 6 | Write character descriptions | Writing | 2024.08.11 | 2024.09.01 | 🟦 TODO | - | Character profiles, backstories, psychological make-up. Highly encourage to read "the Art of Dramatic Writing" by Lajos Egri for this part. |
 | 7 | Figure out the locations of the game | Art/Writing | 2024.08.11 | 2024.09.01 | 🟦 TODO | Emily, Ignas, Mykolas | Having figured out the story to be told and the world that the game takes place in, draw out a sketch of the locations in the game. What Vilnius looks like in our game, meaning - districts and connections between them as needed. Simplify and adapt the real life location to the medium. |
 | 8 | Create prototype version of Main Menu | Coding | 2024.08.12 | 2024.08.16 | 🟦 TODO | Emily |  |
-| 9 | Write Main Menu music | Coding | 2024.09.01 | 🟦 TODO | Mykolas |  |
-| 10 | Create sample scene | Art | 2024.08.18 | 🟦 TODO | Emily | For future design reference and testing of in-game systems. Task tied to previous task nr. 3. |
-| 11 | Create main player model from previous designs | Art | 2024.08.18 | 🟦 TODO | Adomas | Using concept art sketches and the 3D asset pipeline create the main character model. Task tied to previous task nr. 3.|
-| 12 | Implement point and click movement | Coding | - | 🟦 TODO | Emily |  |
-| 13 | Implement point and click interaction | Coding | - | 🟦 TODO | Emily |  |
-| 13 | Implement prototype dialogue system | Coding | - | 🟦 TODO | Emily |  |
-| 14 | Write introductory sequence and first quest/story beat. | Writing/Art/Audio | - | 🟦 TODO | Everyone | To be separated into smaller tasks after previous tasks are done. |
-| 15 | END! Minimum Viable Product established. | Other | 2024.11.01 | 🟦 TODO | All the lovely people who worked on the project :) |  |
+| 9 | Write Main Menu music | Coding | 2024.08.12 | 2024.09.01 | 🟦 TODO | Mykolas |  |
+| 10 | Create sample scene | Art | 2024.08.09 | 2024.08.18 | 🟦 TODO | Emily | For future design reference and testing of in-game systems. Task tied to previous task nr. 3. |
+| 11 | Create main player model from previous designs | Art | 2024.08.09 | 2024.08.25 | 🟦 TODO | Adomas | Using concept art sketches and the 3D asset pipeline create the main character model. Task tied to previous task nr. 3.|
+| 12 | Implement point and click movement | Coding | - | - | 🟦 TODO | Emily |  |
+| 13 | Implement point and click interaction | Coding | - | - | 🟦 TODO | Emily |  |
+| 13 | Implement prototype dialogue system | Coding | - | - | 🟦 TODO | Emily |  |
+| 14 | Write introductory sequence and first quest/story beat. | Writing/Art/Audio | - | - | 🟦 TODO | Everyone | To be separated into smaller tasks after previous tasks are done. |
+| 15 | END! Minimum Viable Product established. | Other | - | 2024.11.01 | 🟦 TODO | All the lovely people who worked on the project :) |  |
