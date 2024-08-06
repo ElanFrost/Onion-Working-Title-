@@ -10,7 +10,7 @@ This is a document containing the design philosophy and idea behing Onion (Worki
 <summary>Game Summary</summary>
 
 ### Game Summary Pitch
-Onion is a top down 3d isometric perspective interactive story game focused mainly on creative storyteling and light on gameplay mechanics in order to constitute a smoother development cycle. A jumping of point for other similar games to be developed in the future. Mainly focused on practice for all participants involved, especialy in the realm of colaborative work and **game development bitches**.
+Onion is a top down 3d isometric perspective interactive story game focused mainly on creative storyteling and light on gameplay mechanics in order to constitute a smoother development cycle. A jumping of point for other similar games to be developed in the future. Mainly focused on practice for all participants involved, especialy in the realm of colaborative work and **game development** bitches.
 The game is set in a futuristic dystopian Vilnius, 80 years into the future (2104) after a robotic uprising, rising sea levels, constant rain, flooding and waterborn ilness left it an abandoned husk. The city is left without access to the outside world, radio towers, internet cables and other communication technologies destroyed in an attempt by humans to interupt communication between hostile AI.
 The game is essentialy about us (the writers) torturing some poor AI's (and the player) with existential crises until they break, which I feel is very fun to do.
 The game follows three robots/AI's (Names Subject to Change):
