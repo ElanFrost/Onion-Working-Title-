@@ -1,5 +1,8 @@
 # ONION (WORKING TITLE) DESIGN DOCUMENT
 
+> [!IMPORTANT]
+> To get permission to edit the repository drop your github username in the discord.
+> Feel free to edit this document to fill out more information. [Useful guide for formating here.](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 > [!TIP]
 > Check out the software tab in the *Introduction* section.
 
