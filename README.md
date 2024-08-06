@@ -136,7 +136,7 @@ The specifics of the game allow the UI to be very minimalistic, allowing the pla
 
 **_MINIMUM VIABLE PRODUCT_**
 <details>
-<summary>Controls</summary>
+<summary>Timeline Presets</summary>
 
 | Assignment Types |
 | --- |
@@ -147,13 +147,13 @@ The specifics of the game allow the UI to be very minimalistic, allowing the pla
 
 | Status Types |
 | --- |
-| <span style='color: blue;'> TODO </span> |
-| <span style='color: yellow;'> In Progress </span> |
-| <span style='color: green;'> Done </span> |
+| 🟥 TODO |
+| 🟨 In Progress |
+| 🟩 Done |
 
 </details>
 
 | # | Assignment | Type | Finish By | Status | Notes
 | --- | --- | --- | --- | --- | --- |
-| 1 | Create Game Design Document | Management | Longform (Initial 2024.08.09) | In Progress |  |
-| 2 | Develop "Blender -> Godot" asset creation pipeline | Art | 2024.08.09 | In Progress |  |
+| 1 | Create Game Design Document | Management | Longform (Initial 2024.08.09) | 🟨 In Progress |  |
+| 2 | Develop "Blender -> Godot" asset creation pipeline | Art | 2024.08.09 | 🟨 In Progress |  |
