@@ -147,9 +147,9 @@ The specifics of the game allow the UI to be very minimalistic, allowing the pla
 
 | Status Types |
 | --- |
-| TODO |
-| In Progress |
-| Done |
+| <span style='color: blue;'> TODO </span> |
+| <span style='color: yellow;'> In Progress </span> |
+| <span style='color: green;'> Done </span> |
 
 </details>
 
