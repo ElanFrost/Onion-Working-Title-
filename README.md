@@ -166,16 +166,16 @@ The specifics of the game allow the UI to be very minimalistic, allowing the pla
 
 Development timeline for the **_MINIMUM VIABLE PRODUCT_** (Edit as needs arise.)
 
-| # | Assignment | Type | Finish By | Status | Assignee | Notes
-| --- | --- | --- | --- | --- | --- | --- |
-| 1 | Create Game Design Document | Other | Longform (Initial 2024.08.09) | 🟨 In Progress | Emily |  |
-| 2 | Clean up repository | Other | Longform (Initial 2024.08.09, end date: N/A) | 🟨 In Progress | Emily | Add missing documents, create reference documents, add resource files and links to useful websites. |
-| 3 | Develop "Blender -> Godot" asset creation pipeline | Art | 2024.08.09 | 🟨 In Progress | Emily |  |
-| 4 | Write a "Setting Document" for the direction of the game | Writing | 2024.08.11 | 🟦 TODO | Emily | Overarching idea of what the game is about: Setting, timeline of events leading up to the events of the game, background lore. It will be best if one person writes these few first documents in order for the idea to be consistent. |
-| 5 | Create a "Master Script" for the game | Writing | 2024.08.11 | 🟦 TODO | Emily | The blocked out story of the game, from A to Z, start to finish what happens. Rough brush strokes. Subject to change if the change receives mutual support from all collaborators: Editing this core idea might mess with the entire flow of the game, it would be a bad idea to mess with it too much. |
-| 6 | Write character descriptions | Writing | 2024.09.01 | 🟦 TODO | - | Character profiles, backstories, psychological make-up. Highly encourage to read "the Art of Dramatic Writing" by Lajos Egri for this part. |
-| 7 | Figure out the locations of the game | Art/Writing | 2024.09.01 | 🟦 TODO | Emily, Ignas, Mykolas | Having figured out the story to be told and the world that the game takes place in, draw out a sketch of the locations in the game. What Vilnius looks like in our game, meaning - districts and connections between them as needed. Simplify and adapt the real life location to the medium. |
-| 8 | Create prototype version of Main Menu | Coding | 2024.08.16 | 🟦 TODO | Emily |  |
+| # | Assignment | Type | Start Date | Finish By | Status | Assignee | Notes
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | Create Game Design Document | Other | 2024.08.05 | Longform (Initial 2024.08.09) | 🟨 In Progress | Emily |  |
+| 2 | Clean up repository | Other | 2024.08.06 | Longform (Initial 2024.08.09, end date: N/A) | 🟨 In Progress | Emily | Add missing documents, create reference documents, add resource files and links to useful websites. |
+| 3 | Develop "Blender -> Godot" asset creation pipeline | Art | 2024.05.01 | 2024.08.09 | 🟨 In Progress | Emily |  |
+| 4 | Write a "Setting Document" for the direction of the game | Writing | 2024.08.09 | 2024.08.11 | 🟦 TODO | Emily | Overarching idea of what the game is about: Setting, timeline of events leading up to the events of the game, background lore. It will be best if one person writes these few first documents in order for the idea to be consistent. |
+| 5 | Create a "Master Script" for the game | Writing | 2024.08.09 | 2024.08.11 | 🟦 TODO | Emily | The blocked out story of the game, from A to Z, start to finish what happens. Rough brush strokes. Subject to change if the change receives mutual support from all collaborators: Editing this core idea might mess with the entire flow of the game, it would be a bad idea to mess with it too much. |
+| 6 | Write character descriptions | Writing | 2024.08.11 | 2024.09.01 | 🟦 TODO | - | Character profiles, backstories, psychological make-up. Highly encourage to read "the Art of Dramatic Writing" by Lajos Egri for this part. |
+| 7 | Figure out the locations of the game | Art/Writing | 2024.08.11 | 2024.09.01 | 🟦 TODO | Emily, Ignas, Mykolas | Having figured out the story to be told and the world that the game takes place in, draw out a sketch of the locations in the game. What Vilnius looks like in our game, meaning - districts and connections between them as needed. Simplify and adapt the real life location to the medium. |
+| 8 | Create prototype version of Main Menu | Coding | 2024.08.12 | 2024.08.16 | 🟦 TODO | Emily |  |
 | 9 | Write Main Menu music | Coding | 2024.09.01 | 🟦 TODO | Mykolas |  |
 | 10 | Create sample scene | Art | 2024.08.18 | 🟦 TODO | Emily | For future design reference and testing of in-game systems. Task tied to previous task nr. 3. |
 | 11 | Create main player model from previous designs | Art | 2024.08.18 | 🟦 TODO | Adomas | Using concept art sketches and the 3D asset pipeline create the main character model. Task tied to previous task nr. 3.|
