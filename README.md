@@ -141,7 +141,6 @@ The specifics of the game allow the UI to be very minimalistic, allowing the pla
 
 ## Development Timeline
 
-**_MINIMUM VIABLE PRODUCT_**
 <details>
 <summary>Timeline Presets</summary>
 
@@ -159,6 +158,8 @@ The specifics of the game allow the UI to be very minimalistic, allowing the pla
 | 🟩 Done |
 
 </details>
+
+Development timeline for the **_MINIMUM VIABLE PRODUCT_**
 
 | # | Assignment | Type | Finish By | Status | Notes
 | --- | --- | --- | --- | --- | --- |
