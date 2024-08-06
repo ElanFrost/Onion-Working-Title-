@@ -33,11 +33,22 @@ The novela heavily inspires the characters' present in the game. The Alied Maste
 A short internet horror story. An origin story I personaly like for how the AI's in the world came to be. The idea that a computer was simply left alone running a neural network on it for years and developed a true AI is appealing, as it closely follows the idea of evolution and how human consciousness came to be. Its mundane and unglamorous origins provide a lot of philosophical weight to the characters - the AI's were created not for some grand purpose, but simply because they were. it gives the AI's the posibility of having an existential crisis.
 </details>
 
+<details>
+<summary>Inspiration</summary>
+
 ### Player Experience
 The player explores a dilapidated world, discovering it's history, background lore, the robotic uprising, talking with NPC's and slowly piecing together the wider lore of the world they find themselves in, all the while being prompted to think about their own existence. The gameplay hinges on it's writing and presentation, rather than on it's mechanics.
+</details>
+
+<details>
+<summary>Inspiration</summary>
 
 ### Platform
 PC exclusive title. Geting the game to work on multiple OS's will be dificult, never mind implementing other platforms.
+</details>
+
+<details>
+<summary>Inspiration</summary>
  
 ### Development Software
 * **Godot Game Engine** for programming.
@@ -45,37 +56,86 @@ PC exclusive title. Geting the game to work on multiple OS's will be dificult, n
 * **Firealpaca** for 2d painting (if required).
 * **Blender** for 3d assets. Modeling, texturing, rigging, animations.
 * *Other required software: Audio effects, Music*
+</details>
+
+<details>
+<summary>Inspiration</summary>
 
 ### Genre
 Singleplayer, story-based, casual.
+</details>
+
+<details>
+<summary>Inspiration</summary>
 
 ### Target Audience
 This game is marketed towards fairly mature audiences that don't necesarily want action packed gameplay, but rather a more casual story-based experience with elements of puzzle solving.
+</details>
+
+<details>
 
 ## Concept
 
+<details>
+<summary>Inspiration</summary>
+
 ### Gameplay overview
 The player controls a single player character, using his mouse of keyboard to traverse a 3d world. The game is played by interacting with objects, having conversations with other characters and solving environment based puzzles.
+</details>
+
+<details>
+<summary>Inspiration</summary>
 
 ### Primary Mechanics
 * **Point and click navigation and selection**
 * **Text boxes with selectable options**
 * **Branching paths**
+</details>
 
 ## Art
+<details>
+<summary>Inspiration</summary>
+
 ### Design
 Leaning heavily into the visual design characteristics of Disco Elysium, the project is aimed at recreating the style of the game, instead of coming up with a distinct style of it's own. This is in order to learn the skills necesary to create 3d models and other visual assets without the added presure of having to come up with a distinctive style. Follow a recipe that you know works. You learn how to cook by following other peoples' recipes first.
+</details>
+
+<details>
+<summary>Inspiration</summary>
 
 
 ## Audio
+
+<details>
+<summary>Inspiration</summary>
+
 ### Music
 Mykolai go ham on this section, we have stuff to talk about. ;)
+</details>
+
+<details>
+<summary>Inspiration</summary>
+
 ### Sound Effects
 Not assigned. Likely to be recordings of real life sounds, rather then synthesized. Royalty free sound effects as needed.
+</details>
+
+<details>
+<summary>Inspiration</summary>
+
 
 ## Game Experience
+
+<details>
+<summary>Inspiration</summary>
+
 ### UI
 The specifics of the game allow the UI to be very minimalistic, allowing the player to completely immerse themselves into the scene without many visual distractions.
+
+</details>
+
+<details>
+<summary>Inspiration</summary>
 
 ### Controls
 **Keyboard:** Arrow keys / WASD
