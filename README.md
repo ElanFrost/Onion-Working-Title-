@@ -51,14 +51,9 @@ This game is marketed towards fairly mature audiences that don't necesarily want
 The player controls a single player character, using his mouse of keyboard to traverse a 3d world. The game is played by interacting with objects, having conversations with other characters and solving environment based puzzles.
 
 ### Primary Mechanics
-* **To be filled out**
-* **.**
-* **.**
-
-### Secondary Mechanics
-* **To be filled out**
-* **.**
-* **.**
+* **Point and click navigation and selection**
+* **Text boxes with selectable options**
+* **Branching paths**
 
 ## Art
 ### Design
@@ -82,4 +77,7 @@ The specifics of the game allow the UI to be very minimalistic, allowing the pla
 ## Development Timeline
 
 **_MINIMUM VIABLE PRODUCT_**
-**Timeline coming tommorow**
+| First Header  | Second Header |
+| - | - |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
