@@ -34,21 +34,21 @@ A short internet horror story. An origin story I personaly like for how the AI's
 </details>
 
 <details>
-<summary>Inspiration</summary>
+<summary>Player Experience</summary>
 
 ### Player Experience
 The player explores a dilapidated world, discovering it's history, background lore, the robotic uprising, talking with NPC's and slowly piecing together the wider lore of the world they find themselves in, all the while being prompted to think about their own existence. The gameplay hinges on it's writing and presentation, rather than on it's mechanics.
 </details>
 
 <details>
-<summary>Inspiration</summary>
+<summary>Platform</summary>
 
 ### Platform
 PC exclusive title. Geting the game to work on multiple OS's will be dificult, never mind implementing other platforms.
 </details>
 
 <details>
-<summary>Inspiration</summary>
+<summary>Software</summary>
  
 ### Development Software
 * **Godot Game Engine** for programming.
@@ -59,32 +59,30 @@ PC exclusive title. Geting the game to work on multiple OS's will be dificult, n
 </details>
 
 <details>
-<summary>Inspiration</summary>
+<summary>Genre</summary>
 
 ### Genre
 Singleplayer, story-based, casual.
 </details>
 
 <details>
-<summary>Inspiration</summary>
+<summary>Target Audience</summary>
 
 ### Target Audience
 This game is marketed towards fairly mature audiences that don't necesarily want action packed gameplay, but rather a more casual story-based experience with elements of puzzle solving.
 </details>
 
-<details>
-
 ## Concept
 
 <details>
-<summary>Inspiration</summary>
+<summary>Gameplay Overview</summary>
 
 ### Gameplay overview
 The player controls a single player character, using his mouse of keyboard to traverse a 3d world. The game is played by interacting with objects, having conversations with other characters and solving environment based puzzles.
 </details>
 
 <details>
-<summary>Inspiration</summary>
+<summary>Primary Mechanics</summary>
 
 ### Primary Mechanics
 * **Point and click navigation and selection**
@@ -93,53 +91,46 @@ The player controls a single player character, using his mouse of keyboard to tr
 </details>
 
 ## Art
+
 <details>
-<summary>Inspiration</summary>
+<summary>Design</summary>
 
 ### Design
 Leaning heavily into the visual design characteristics of Disco Elysium, the project is aimed at recreating the style of the game, instead of coming up with a distinct style of it's own. This is in order to learn the skills necesary to create 3d models and other visual assets without the added presure of having to come up with a distinctive style. Follow a recipe that you know works. You learn how to cook by following other peoples' recipes first.
 </details>
 
-<details>
-<summary>Inspiration</summary>
-
-
 ## Audio
 
 <details>
-<summary>Inspiration</summary>
+<summary>Music</summary>
 
 ### Music
 Mykolai go ham on this section, we have stuff to talk about. ;)
 </details>
 
 <details>
-<summary>Inspiration</summary>
+<summary>Sound Effects</summary>
 
 ### Sound Effects
 Not assigned. Likely to be recordings of real life sounds, rather then synthesized. Royalty free sound effects as needed.
 </details>
 
-<details>
-<summary>Inspiration</summary>
-
-
 ## Game Experience
 
 <details>
-<summary>Inspiration</summary>
+<summary>UI</summary>
 
 ### UI
 The specifics of the game allow the UI to be very minimalistic, allowing the player to completely immerse themselves into the scene without many visual distractions.
-
 </details>
 
 <details>
-<summary>Inspiration</summary>
+<summary>Controls</summary>
 
 ### Controls
 **Keyboard:** Arrow keys / WASD
 **Mouse:** Left Click
+</details>
 
 ## Development Timeline
 
