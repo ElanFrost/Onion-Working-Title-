@@ -48,7 +48,7 @@ PC exclusive title. Geting the game to work on multiple OS's will be dificult, n
 </details>
 
 <details>
-<summary>Software</summary>
+<summary>**Software**</summary>
  
 ### Development Software
 * **Godot Game Engine** for programming.
