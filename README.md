@@ -39,6 +39,9 @@ The game follows three robots/AI's (Names Subject to Change):
 **Disco Elysium**
 Leaning heavily into Disco Elysium's style and design philosophy. This is in order to learn how to make a great game by following an example. Many characteristics of the game will be borrowed to learn how to effectively tell a story in the format of a video game. Future products will then be able to break out of this mold created in the first attempt.
 
+**STALKER the movie**
+The game will look to the Stalker movie by the briliant Andrei Tarkovsky for inspiration. Specificaly it's themes and atmosphere. The movie is long (3 hours) and nothing particularly grandiose happens during its runtime, so it might be a slog to watch. But I would still encourge people to watch it if they wan't to gain a deeper understanding towards the sort of mutted awe we want to inspire within the player.
+
 **I have no mouth and I must scream**
 The novela heavily inspires the characters' present in the game. The Alied Mastercomputer (AM) is in some ways applicable to Deus's character. Highly recomended to read, it's 11 pages.
 
